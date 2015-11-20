@@ -1,0 +1,4 @@
+
+Estos Gcodes han sido generados para una boquilla 2mm de diámetro y una altura de capa 1mm. 
+
+Si dispone de una boquilla de diámetro diferente deberá adaptarla o generar los Gcodes de nuevo.
